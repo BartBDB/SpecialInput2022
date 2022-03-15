@@ -1,7 +1,9 @@
 #**SPECIAL INPUT PROJECT 2022**
 
-Wij willen iets gaan maken wat laat zien wat je met handtracking kan doen. Niet iets heel erg ingewikkeld want de cameras werken niet heel erg goed in de Quest 2.
+Wij willen een dartspel maken met de handtracking van de Quest 2. Van alle opties die wij kunnen kiezen is de Quest 2 het makkelijkste om een game mee te maken, daarom hebben wij dat gekozen. 
   
-Hiervoor hebben wij een Oculus Quest 2 nodig, Unity en de Oculus packages.
+Hiervoor hebben wij een Oculus Quest 2 nodig, Unity en de Oculus packages. We hebben Unity gekozen omdat wij er al ervaring mee hebben en we denken niet dat we de tijd hebben om Unreal te leren.
   
-Ik denk dat het lastigste gedeelte van het project de input zelf gaat worden. Zo goed zijn de cameras niet en van wat ik het gezien en heb geprobeerd is de tracking ook niet geweldig.
+Het lastigste gedeelte van dit project is het aanzetten van developer mode op de Quest 2. De website werkt niet en de app werkt ook niet dus ik moet een omweg gaan zoeken.
+
+[WEBSITE LINKS]
