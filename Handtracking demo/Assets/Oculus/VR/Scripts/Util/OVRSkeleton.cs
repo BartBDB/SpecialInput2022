@@ -420,6 +420,10 @@ public class OVRSkeleton : MonoBehaviour
 
 					if (capsuleGO.activeSelf)
 					{
+						//These 2 lines will make the SDK driver work properly
+						capsuleGO.SetActive(false);	    
+						capsuleGO.SetActive(true); 
+
 						capsule.CapsuleRigidbody.MovePosition(bone.position);
 						capsule.CapsuleRigidbody.MoveRotation(bone.rotation);
 					}
