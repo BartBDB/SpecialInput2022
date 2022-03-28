@@ -14,9 +14,12 @@ public class Points : MonoBehaviour
     }
     void OnCollisionEnter(Collision dataFromCollision)
     {
+        //if otherscript.targethit == 9
         if (dataFromCollision.gameObject.name == "1")
         {
             text.text = "1";
+            //otherscript.targethit == 1;
+           
         }
 
         if (dataFromCollision.gameObject.name == "2")
@@ -113,5 +116,6 @@ public class Points : MonoBehaviour
         {
             text.text = "20";
         }
+        //}
     }
 }
