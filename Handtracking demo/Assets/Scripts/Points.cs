@@ -6,15 +6,11 @@ using TMPro;
 public class Points : MonoBehaviour
 {
     public GameObject dart;
-    public TextMeshPro text;
+    public TextMeshProUGUI text;
 
-    void Start()
-    {
-        text.text = "";
-    }
     void OnCollisionEnter(Collision dataFromCollision)
     {
-        //if otherscript.targethit == 9
+        //if otherscript.targethit == 0
         if (dataFromCollision.gameObject.name == "1")
         {
             text.text = "1";
