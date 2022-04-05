@@ -14,7 +14,7 @@ public class Points : MonoBehaviour
         GameObject cube = GameObject.Find("Cube");
         cube.transform.position = new Vector3(0, 1, 0.56f);
         cube.transform.rotation = new Quaternion(0, 0, 0, 0);
-        text.text = "";
+        text.text = "None";
         targetHit = false;
     }
 
