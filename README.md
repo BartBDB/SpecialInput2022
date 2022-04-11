@@ -1,14 +1,38 @@
 #**SPECIAL INPUT PROJECT 2022**
 
-Wij willen een dartspel maken met de handtracking van de Quest 2. Van alle opties die wij kunnen kiezen is de Quest 2 het makkelijkste om een game mee te maken, daarom hebben wij dat gekozen. 
-  
-Hiervoor hebben wij een Oculus Quest 2 nodig, Unity en de Oculus packages. We hebben Unity gekozen omdat wij er al ervaring mee hebben en we denken niet dat we de tijd hebben om Unreal te leren.
-  
-Het lastigste gedeelte van dit project is het aanzetten van developer mode op de Quest 2. De website werkt niet en de app werkt ook niet dus ik moet een omweg gaan zoeken.
+Special Input-Output is het project waar we een VR game maken (darten en whack-a-mole) met een oculus quest.
 
-[WEBSITE LINKS]
-(Oculus handtracking documentatie)  
-https://developer.oculus.com/documentation/unity/unity-handtracking/?locale=nl_NL  
+*Doel:*   
+We willen deze ervaringen baseren om de handtracking van de Oculus quest.
+We hebben bij darten dat je op een plateau staat en een blokje moet trekken om een pijl af te vuren. En bij Whack-a-Mole hebben we een ruimte met een spellenkast er staan waar je mollen kan slaan met je handen.
 
-![](https://github.com/BartdeBoer2001/SpecialInput2022/blob/main/Handtrack1.gif)
-![](https://github.com/BartdeBoer2001/SpecialInput2022/blob/main/Handtrack2.gif)
+*Benodigdheden:*   
+Het spel wordt in Unity Game Engine gemaakt en met een Oculus quest headset, we hebben een verschillende packages gebruikt om VR in Unity te kunnen genruiken.
+
+*Obstakels:*   
+Het moeilijkste van het project was dat we met een input device moesten gaan werken die we nog nooit hadden gebruikt en die in onze ervaring niet heel goed werkte. De README was ook redelijk moeilijk. 
+ 
+*Plaatjes:*   
+
+![](https://github.com/BartdeBoer2001/SpecialInput2022/blob/BranchMenno/Afbeelding1.png)
+![](https://github.com/BartdeBoer2001/SpecialInput2022/blob/BranchMenno/Afbeelding2.png)
+![](https://github.com/BartdeBoer2001/SpecialInput2022/blob/BranchMenno/Afbeelding3.png)
+![](https://github.com/BartdeBoer2001/SpecialInput2022/blob/BranchMenno/Afbeelding4.png)
+![](https://github.com/BartdeBoer2001/SpecialInput2022/blob/BranchMenno/Afbeelding5.png)
+
+
+
+
+ 
+*Bronnen:*   
+https://developer.oculus.com/documentation/unity/unity-handtracking/?locale=nl_NL
+ 
+https://sketchfab.com/3d-models/used-dartboard-a15f9fe56ba548c99ea1f75f18adcec4
+Sketchfab
+ 
+https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022
+ 
+https://trello.com/b/N4eYA3Ud/special-input-output
+
+*Extra Informatie:*   
+Ondanks dat het al vanaf het begin vaststond om VR als special input device te gaan gebruiken, maar het idee wat we in vr zouden gaan maken is een aantal keer verandert omdat het onrealistisch was om dat binnen de periode te kunnen halen.
